@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
+notebooks/answer_cache/cache.db
+notebooks/answer_cache/cache.db-shm
+notebooks/answer_cache/cache.db-wal
